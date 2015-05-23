@@ -7,9 +7,6 @@
   <icon src="Icon.png" />
   <gap:splash src="splash.png" />
   <access origin="*" />
-
-  <!-- Plugin's -->
-
   
   <!-- Multi-Platform -->
   <preference name="fullscreen" value="true" />
