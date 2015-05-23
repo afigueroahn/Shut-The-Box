@@ -11,15 +11,12 @@
   <!-- Plugin's -->
   <gap:plugin name="com.phonegap.plugin.statusbar" />
   
-  
-
   <!-- Multi-Platform -->
   <preference name="fullscreen" value="true" />
   <preference name="orientation" value="landscape" />
 
   <!-- iOS Only -->
   <preference name="target-device" value="universal" />
-  <preference name="prerendered-icon" value="true" />
   <platform name="ios">
     <!-- iOS 8.0+ -->
     <!-- iPhone 6 Plus  -->
