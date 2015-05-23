@@ -9,7 +9,7 @@
   <access origin="*" />
 
   <!-- Plugin's -->
-  <gap:plugin name="com.phonegap.plugin.statusbar" />
+
   
   <!-- Multi-Platform -->
   <preference name="fullscreen" value="true" />
